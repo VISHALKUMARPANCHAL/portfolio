@@ -1,6 +1,4 @@
-Superseminar is a seminar or workshop management system. This is one kind of platform where
-students are find the seminars and register for the same and moderator means host of the seminar can
-add the workshops which they will be conduct. So that for using this platform students knows about
-seminar and high number of students can attends for seminar.
+I create my portfolio website using html, css and javascript. In this i add my all details like about me, my
+skills, my projects, contact me form etc.
 
-Technology used : HTML, CSS, JAVASCRIPT, REACTJS, NODEJS, EXPRESSJS, MONGODB- MERN STACK
+Technology used : HTML, CSS, JAVASCRIPT, BOOTSTRAP
