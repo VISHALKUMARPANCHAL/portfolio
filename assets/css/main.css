@@ -1502,7 +1502,7 @@ section,
 }
 
 #resumedownload {
-  border: 0px solid #0563bb;
+  /* border: 0px solid #0563bb;
   color: white;
   display: flex;
   padding: 0px 0px 3px 0px;
@@ -1512,6 +1512,19 @@ section,
   height: 116px;
   width: 239px;
   margin: -37px 0 0 143px;
+  justify-content: center;
+  text-align: center; */
+
+  /* margin-bottom: -70px; */
+  border: 0px solid #0563bb;
+  color: white;
+  display: flex;
+  /* padding: 0px 0px 3px 0px; */
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: #0563bb;
+  height: 31px;
+  width: 100%;
   justify-content: center;
   text-align: center;
 }
