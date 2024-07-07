@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+I create my portfolio website using html, css and javascript. In this i add my all details like about me, my
+skills, my projects, contact me form etc.
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Technology used : HTML, CSS, JAVASCRIPT, BOOTSTRAP
