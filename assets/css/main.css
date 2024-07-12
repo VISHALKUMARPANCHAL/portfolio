@@ -1534,3 +1534,9 @@ section,
   cursor: pointer;
   background: color-mix(in srgb, var(--accent-color), transparent 25%);
 }
+
+.img-fluid {
+  border: 1px solid black;
+  max-width: 80%;
+  height: auto;
+}
