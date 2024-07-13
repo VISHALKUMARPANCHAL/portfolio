@@ -183,7 +183,7 @@ h6 {
 
   .header~main .hero {
     margin-left: -160px;
-    width: 100vw;
+    width: 1361px;
   }
 }
 
@@ -1539,4 +1539,22 @@ section,
   border: 1px solid black;
   max-width: 80%;
   height: auto;
+}
+
+
+
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: rgb(206, 206, 206);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #0563bb;
+  /* border-bottom-left-radius: 10px;
+  border-top-left-radius: 20px; */
+
 }
