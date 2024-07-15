@@ -181,10 +181,10 @@ h6 {
     margin-left: 160px;
   }
 
-  .header~main .hero {
+  /* .header~main .hero {
     margin-left: -160px;
     width: 1361px;
-  }
+  } */
 }
 
 .header.header-show {
@@ -528,6 +528,13 @@ section,
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
+  /* width: 100%;
+  height: 100vh; */
+  background-image: url(../../assets/img/3.avif);
+  background-size: cover;
+  background-position: center;
+
+
   width: 100%;
   min-height: 100vh;
   position: relative;
@@ -537,7 +544,7 @@ section,
   justify-content: center;
 }
 
-.hero img {
+/* .hero img {
   position: absolute;
   inset: 0;
   display: block;
@@ -545,7 +552,7 @@ section,
   height: 100%;
   object-fit: cover;
   z-index: 1;
-}
+} */
 
 .hero:before {
   content: "";
@@ -1536,7 +1543,9 @@ section,
 }
 
 .img-fluid {
-  border: 1px solid black;
+  box-shadow: 10px 10px 20px #babecc, -10px -10px 20px #FFFFFF;
+  border-radius: 20px;
+  border: 1px solid #fff;
   max-width: 80%;
   height: auto;
 }
